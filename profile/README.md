@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Olá 👋
+🙋‍ Okueca(lê-se Okuetxa) significa DAR/DOAR , a ideia é criar uma comunidade sem fins lucrativos que com auxilio </br>
+da Engenharia ajude de algum modo países africanos ou comunidades africanas a resolverem alguns problemas. 🌈
+</br>
 <!--
 
 **Here are some ideas to get you started:**
