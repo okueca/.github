@@ -1,5 +1,5 @@
 ## Olá 👋
-🙋‍ Okwetcha significa DAR/DOAR , a ideia é criar uma comunidade sem fins lucrativos que com auxilio </br>
+🙋‍ Okwetcha significa DAR/DOAR , a ideia é criar uma comunidade que com auxilio </br>
 da Engenharia ajude de algum modo países africanos ou comunidades africanas a resolverem alguns problemas. 🌈
 </br>
 <!--
