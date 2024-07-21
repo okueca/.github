@@ -1,4 +1,9 @@
 ## Olá 👋
+
+🙋‍ Okwetcha means TO GIVE/DONATE, the idea is to create a community that, with the help of Engineering, </br>
+assists in some way African countries or African communities in solving certain problems. 🌈
+</br>
+
 🙋‍ Okwetcha significa DAR/DOAR , a ideia é criar uma comunidade que com auxilio </br>
 da Engenharia ajude de algum modo países africanos ou comunidades africanas a resolverem alguns problemas. 🌈
 </br>
